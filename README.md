@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1116749436.svg)](https://doi.org/10.5281/zenodo.17937939)
+
 # DoubleBetaDecay_Data
 
 A reference dataset repository containing theoretical spectra for double beta decay processes in the closure approximation.
