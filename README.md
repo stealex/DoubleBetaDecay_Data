@@ -8,6 +8,7 @@ A reference dataset repository containing theoretical spectra for double beta de
 
 This repository provides CSV data files for double beta decay calculations for three isotopes:
 - **⁷⁶Ge** (Germanium-76)
+- **¹⁰⁰Mo** (Molybdenum-100)
 - **¹³⁰Te** (Tellurium-130)
 - **¹³⁶Xe** (Xenon-136)
 
@@ -24,6 +25,8 @@ DoubleBetaDecay_Data/
 └── data/
     ├── 76Ge_0nu_2betaMinus.csv
     ├── 76Ge_2nu_2betaMinus.csv
+    ├── 100Mo_0nu_2betaMinus.csv
+    ├── 100Mo_2nu_2betaMinus.csv
     ├── 130Te_0nu_2betaMinus.csv
     ├── 130Te_2nu_2betaMinus.csv
     ├── 136Xe_0nu_2betaMinus.csv
